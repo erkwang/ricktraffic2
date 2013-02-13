@@ -1,0 +1,10 @@
+Package: ricktraffic2
+Type: Package
+Title: Grid Traffic Simulation
+Version: 0.1.1
+Date: 2013-02-13
+Author: Rick Wang
+Maintainer: Rick Wang <erkwang@ucdavis.edu>
+Description: Simulate a grid with randomly seeded Red and Blue cars from given density and calculate the final state of cars on the grid after a certain period of time
+License: BSD
+Collate: Simulation.R SummaryMethod.R PlotMethod.R
